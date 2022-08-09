@@ -1,11 +1,12 @@
 import streamlit
 
-streamlit.title("Hey All")
+streamlit.title("Healthy Diner !")
 
-streamlit.header("First Streamlit App")
-streamlit.text("One")
-streamlit.text("Two")
-streamlit.text("Three")
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
+
 
 
 
